@@ -22,3 +22,4 @@
   <img align="center" alt="Rennan-flutter" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Rennan-bootstrap" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
 </div>
+![Snake animation](https://github.com/rennangmacarini/rennangmacarini/blob/output/github-contribution-grid-snake.svg)
