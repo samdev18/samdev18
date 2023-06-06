@@ -2,7 +2,7 @@
 
 ## About me 🔥
 
-- 🐱‍🏍 Senior backend software software engineer
+- 🐱‍🏍 Senior fullstack software engineer
 - 👨‍🎓 In love with javascript stack
 
 
